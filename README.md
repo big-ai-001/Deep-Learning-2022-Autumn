@@ -1,5 +1,11 @@
 # Deep-Learning-2022-Autumn
-2022秋季 深度學習專題研討 集中討論區，所有文件皆可修改，不限制你上傳任何資訊。
+2022秋季 深度學習專題研討 集中討論區，所有文件皆可修改，不限制你上傳任何資訊。以下附上檔案結構：
+
+    Deep-Learning-2022-Autumn
+    |
+    |—— README.md
+    |
+    |__ paperName.md //要報的論文(paperName)分工等資訊
 
 ## meet 線上討論室
 
