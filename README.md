@@ -3,9 +3,15 @@
 
 ## meet 線上討論室
 
-https://meet.google.com/qoz-xhbk-srh
+### link ==> https://meet.google.com/qoz-xhbk-srh
 
-## 如有問題找 大學部（roger 林榮顯、yun 林揚展）
+### 日程表
+
+10/xx xx:xx 討論xxxxx
+
+## 聯絡資訊
+
+### 如有問題找 大學部（roger 林榮顯、yun 林揚展）
 
 地點: LAB MB204 最後一排 (該LAB有多名其他教授的研究生，請注意禮貌)
 
@@ -13,6 +19,6 @@ https://meet.google.com/qoz-xhbk-srh
 
 不想找實體可發LINE或寫issues討論。
 
-## 如有問題找　小敏研究生
+### 如有問題找 小敏研究生
 
 地點: LAB MB213
