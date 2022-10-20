@@ -6,7 +6,7 @@
 
 as the title
 
-## 2 Related Work - 3.Model Architecture
+## 2 Related Work - 3.Model Architecture 謝永盛
 
 Unsupervised Feature-based Approaches(word embedding, ELMo), Unsupervised Fine-tuning Approaches(GPT)
 
