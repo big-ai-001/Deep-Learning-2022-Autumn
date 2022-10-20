@@ -1,6 +1,13 @@
  # BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (6人)
 
 > ## 在你想報的部分標上你的名子 如:（roger 林榮顯）
+> 參考資訊：  
+> [台大資訊 深度學習之應用 | ADL 10.1 BERT 進擊的芝麻街巨人](https://www.youtube.com/watch?v=XS44fSQP0-E&list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn&index=34)  
+> [BERT 论文逐段精读【论文精读】](https://www.youtube.com/watch?v=ULD3uIb2MHQ)  
+> [gluebenchmark](https://gluebenchmark.com/)  
+> [GLUE基准数据集介绍及下载](https://zhuanlan.zhihu.com/p/135283598)  
+> [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)  
+> [SQuAD —— text span答案类型开创者](https://zhuanlan.zhihu.com/p/137828922)
 
 ## Abstract + 1 Introduction 許禾諭
 
