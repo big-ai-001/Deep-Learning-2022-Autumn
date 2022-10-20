@@ -2,7 +2,7 @@
 
 > ## 在你想報的部分標上你的名子 如:（roger 林榮顯）
 
-## Abstract + 1 Introduction
+## Abstract + 1 Introduction 許禾諭
 
 as the title
 
@@ -14,7 +14,7 @@ Unsupervised Feature-based Approaches(word embedding, ELMo), Unsupervised Fine-t
 
 explain MLM, NSP, How to Fine-tuning.
 
-## 4 Experiments - 4.3 SQuAD v2.0 （林榮顯）
+## 4 Experiments - 4.3 SQuAD v2.0 
 
 GLUE, task explain, How it train?, Model performes.
 
