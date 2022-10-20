@@ -26,7 +26,7 @@ SWAG, task explain, How it train?, Model performes.
 
 Effect of Pre-training Tasks: 表5說明, 移除NSP造成的性能下降，雙向(無向)改單向造成的性能下降.
 
-## 5.2 Effect of Model Size - 6 Conclusion
+## 5.2 Effect of Model Size - 6 Conclusion (Ken 高士凱)
 
 use table6 explain The effect of changes in Model Size on Model performes.
 
