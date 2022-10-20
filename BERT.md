@@ -21,13 +21,13 @@ Unsupervised Feature-based Approaches(word embedding, ELMo), Unsupervised Fine-t
 
 explain MLM, NSP, How to Fine-tuning.
 
-## 4 Experiments - 4.3 SQuAD v2.0 
+## 4 Experiments - 4.3 SQuAD v2.0 （葉家豪）
 
 GLUE, task explain, How it train?, Model performes.
 
 SQuAD, task explain, How it train?, Model performes.
 
-## 4.4 SWAG - 5.1 Effect of Pre-training Tasks 
+## 4.4 SWAG - 5.1 Effect of Pre-training Tasks （林榮顯）
 
 SWAG, task explain, How it train?, Model performes.
 
