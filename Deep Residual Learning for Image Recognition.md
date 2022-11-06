@@ -4,7 +4,7 @@
 > 參考資訊：  
 > [論文速速讀 Deep Residual Learning for Image Recognition](https://meetonfriday.com/posts/7c0020de/)  
 > [論文 Deep Residual Learning for Image Recognition](https://allen108108.github.io/blog/2019/10/29/[%E8%AB%96%E6%96%87]%20Deep%20Residual%20Learning%20for%20Image%20Recognition/#%E7%9B%B8%E9%97%9C%E5%B7%A5%E4%BD%9C-related-work)  
-> [論文 Aggregating local descriptors into a compact image represenatation](http://mrulafi.blogspot.com/2016/03/aggregating-local-descriptors-into.html)
+> [論文 Aggregating local descriptors into a compact image represenatation](http://mrulafi.blogspot.com/2016/03/aggregating-local-descriptors-into.html)  
 > [為甚麼要Deep?](https://youtu.be/FN8jclCrqY0)
 ## Abstract + 1 Introduction
 
