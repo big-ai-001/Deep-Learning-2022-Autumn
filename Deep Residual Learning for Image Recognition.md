@@ -36,7 +36,7 @@
 3. 深度提供的效益
 4. 與SOTA比較
 
-## 4.2 CIFAR-10 and Analysis ~ 4.3. Object Detection on PASCAL and MS COCO
+## 4.2 CIFAR-10 and Analysis ~ 4.3. Object Detection on PASCAL and MS COCO  許禾諭
 
 1. CIFAR-10 Dataset, 實驗目的, 細節, 效果比較
 2. 透過每層輸出分布的標準差證明Residual更好優化
