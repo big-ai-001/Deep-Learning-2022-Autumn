@@ -12,7 +12,7 @@
 2. 增加深度時所遇到的困難
 3. 提出的架構與優勢
 
-## 2 Related Work
+## 2 Related Work 高士凱
 
 1. Residual（殘差）是什麼
 2. VLAD, Fisher Vector, Multigrid, hierarchical basis preconditioning 證明優秀的目標分解or重構方法可以更簡易的優化模型
