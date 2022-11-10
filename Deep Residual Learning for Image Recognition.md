@@ -18,7 +18,7 @@
 2. VLAD, Fisher Vector, Multigrid, hierarchical basis preconditioning 證明優秀的目標分解or重構方法可以更簡易的優化模型
 3. Shortcut Connections 做法以及目的
 
-## 3 Network Architectures
+## 3 Network Architectures 葉家豪
 
 1. 重構方法&為何以殘差為學習目標
 2. Shortcut的技術細節
