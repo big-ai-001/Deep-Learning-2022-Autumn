@@ -1,4 +1,4 @@
- # [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+ # [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
 > ## 在你想報的部分標上你的名子 如:（roger 林榮顯）
 > 參考資訊：  (歡迎提供覺得有幫助的資訊) <br>
