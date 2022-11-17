@@ -6,6 +6,6 @@
 ## Abstract + 1 Introduction
 ## 2 Related Work 
 ## 3 Adversarial nets
-## 4 Theoretical Results ~ 4.1 Global Optimality of Pg = Pdata
+## 4 Theoretical Results ~ 4.1 Global Optimality of Pg = Pdata (Yang 林揚展)
 ## 4.2 Convergence of Algorithm 1 ~ 5 Experiments
 ## 6 Advantages and disadvantages ~ 7 Conclusions and future work
