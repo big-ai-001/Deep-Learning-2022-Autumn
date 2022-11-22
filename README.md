@@ -14,7 +14,8 @@
 ### 日程表
 
 ~0/20 20:00 討論BERT論文分配~<br>
-11/17 20:00 討論Generative Adversarial Nets論文的分配
+~11/17 20:00 討論Generative Adversarial Nets論文的分配~<br>
+11/24 20:00 討論An Image is Worth 16x16 Words論文的分配
 
 ## 聯絡資訊
 財金系
