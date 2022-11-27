@@ -2,7 +2,7 @@
 
 ### 1.ABSTRACT & INTRODUCTION
 
-### 2.RELATED WORK
+### 2.RELATED WORK (Eric 謝永盛)
 
 ### 3 METHOD (Yang 林揚展)
 
